@@ -134,6 +134,7 @@ td{
     background-color: green; 
     color: white;
     margin-right: 40px;
+    cursor: pointer;
 }
 
 .botao2{
@@ -141,6 +142,7 @@ td{
     width: 7rem;
     background-color: rgb(211, 20, 20);
     color: white;
+    cursor: pointer;
 }
 
 .botao3{
@@ -149,6 +151,7 @@ td{
     background-color:orange;
     color: white;
     margin-right: 40px;
+    cursor: pointer;
 }
 
 .botao4{
@@ -156,6 +159,7 @@ td{
     width: 7rem;
     background-color:skyblue;
     color: white;
+    cursor: pointer;
 }
 
 /* Table da Avaria */
